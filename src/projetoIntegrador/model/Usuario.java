@@ -23,4 +23,9 @@ public class Usuario {
         public void listar(){}
         public void adicionar(){}
         public void deletar(){}
+
+		public void visualizar() {
+			// TODO Auto-generated method stub
+			
+		}
 }
